@@ -1,0 +1,65 @@
+# (Video)
+# > Acfun
+DOMAIN-SUFFIX,acfun.cn,StreamingCN
+DOMAIN-SUFFIX,aixifan.com,StreamingCN
+# > bilibili
+DOMAIN-SUFFIX,biliapi.net,StreamingCN
+DOMAIN-SUFFIX,bilibili.com,StreamingCN
+DOMAIN-SUFFIX,bilivideo.com,StreamingCN
+DOMAIN-SUFFIX,hdslb.com,StreamingCN
+# > Tencent Video
+DOMAIN-SUFFIX,video.qq.com,StreamingCN
+DOMAIN-SUFFIX,i.qq.com,StreamingCN
+DOMAIN-SUFFIX,v.qq.com,StreamingCN
+# > iQiyi
+DOMAIN-SUFFIX,iqiyi.com,StreamingCN
+DOMAIN-SUFFIX,71edge.com,StreamingCN
+# > Youku
+DOMAIN-SUFFIX,soku.com,StreamingCN
+DOMAIN-SUFFIX,youku.com,StreamingCN
+DOMAIN-SUFFIX,ykimg.com,StreamingCN
+# > XiGua
+DOMAIN-SUFFIX,ixigua.com,StreamingCN
+DOMAIN-SUFFIX,snssdk.com,StreamingCN
+# > HunanTV
+DOMAIN-SUFFIX,hitv.com,StreamingCN
+DOMAIN-SUFFIX,hunantv.com,StreamingCN
+DOMAIN-SUFFIX,mgtv.com,StreamingCN
+# > Le
+DOMAIN-SUFFIX,le.com,StreamingCN
+# > PPLive
+DOMAIN-SUFFIX,pplive.cn,StreamingCN
+DOMAIN-SUFFIX,pptv.com,StreamingCN
+# > Sohu Video
+DOMAIN-SUFFIX,itc.cn,StreamingCN
+DOMAIN-SUFFIX,sohu.com,StreamingCN
+# > Migu Video
+DOMAIN-SUFFIX,cmvideo.cn,StreamingCN
+DOMAIN-SUFFIX,miguvideo.com,StreamingCN
+
+# (Music)
+# > QQ Music
+DOMAIN-SUFFIX,music.qq.com,StreamingCN
+DOMAIN-SUFFIX,music.tc.qq.com,StreamingCN
+DOMAIN-SUFFIX,qqmusic.qq.com,StreamingCN
+DOMAIN-SUFFIX,tencentmusic.com,StreamingCN
+DOMAIN-SUFFIX,y.qq.com,StreamingCN
+DOMAIN,aqqmusic.tc.qq.com,StreamingCN
+DOMAIN,moo.qq.com,StreamingCN
+# > China Music Corp
+DOMAIN-SUFFIX,kuwo.cn,StreamingCN
+DOMAIN-SUFFIX,kugou.com,StreamingCN
+# > Netease Cloud Music
+DOMAIN-SUFFIX,music.163.com,StreamingCN
+DOMAIN-SUFFIX,music.126.net,StreamingCN
+DOMAIN,mam.netease.com,StreamingCN
+DOMAIN,api.iplay.163.com,StreamingCN
+# > Qianqian Music
+DOMAIN-SUFFIX,qianqian.com,StreamingCN
+DOMAIN-SUFFIX,taihe.com,StreamingCN
+# > Migu Music
+DOMAIN-SUFFIX,migu.cn,StreamingCN
+# > Xiaomi
+DOMAIN-SUFFIX,ai.xiaomi.com,StreamingCN
+DOMAIN-SUFFIX,music.xiaomi.com,StreamingCN
+DOMAIN-SUFFIX,dmhmusic.com,StreamingCN
